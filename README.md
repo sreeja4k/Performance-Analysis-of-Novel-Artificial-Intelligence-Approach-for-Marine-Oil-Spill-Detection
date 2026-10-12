@@ -1,0 +1,2 @@
+# Performance-Analysis-of-Novel-Artificial-Intelligence-Approach-for-Marine-Oil-Spill-Detection
+Marine oil spills severely damage oceans and the economy. Because weather and sea conditions often confuse older AI models, this research introduces a Vision Transformer (ViT) system. This advanced AI better understands satellite imagery to automatically identify and sort spills. Results prove the ViT system is highly effective.
